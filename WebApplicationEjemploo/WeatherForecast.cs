@@ -10,6 +10,8 @@ namespace WebApplicationEjemploo
 
         public string? Summary { get; set; }
 
+        public int MyProperty2 { get; set; }
+
         public int MyProperty { get; set; }
     }
 }
