@@ -13,5 +13,7 @@ namespace WebApplicationEjemploo
         public int MyProperty2 { get; set; }
 
         public int MyProperty { get; set; }
+
+        public int MyProperty3 { get; set; }
     }
 }
